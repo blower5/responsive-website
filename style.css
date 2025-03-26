@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("/img/stripes2.png");
+    background-image: url("img/stripes2.png");
     background-position: center;
     background-size: 10vw;
 }
@@ -21,7 +21,7 @@ body {
 .bright {
     margin: 5vw 0vw;
     padding: 2vw 2vw;
-    background-image: url("/img/stripes3.png");
+    background-image: url("img/stripes3.png");
     background-size: 10vw;
     background-position: center;
     display: flex;
